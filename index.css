@@ -1,0 +1,37 @@
+.row{
+    margin-top: 150px;
+}
+h1{
+    font-size: 70px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+body{
+    background-color: whitesmoke;
+}
+a{
+    display: block;
+    margin-top: 10px;
+}
+.btn-success{
+    display: block !important;
+    margin-left: 80px;
+}
+.btn-block{
+    margin-left: 120px;
+}
